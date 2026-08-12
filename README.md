@@ -60,7 +60,7 @@ I regularly practice DSA to improve my **problem-solving, logic building, and al
 
 ### 🏆 LeetCode
 
-**76+ Problems Solved**
+**90+ Problems Solved**
 
 <a href="YOUR_LEETCODE">
   <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
